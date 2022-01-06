@@ -14,7 +14,7 @@
     "lint-staged": "^12.1.5"
   },
   "scripts": {
-    "publish": "lerna publish",
+    "publish": "tasks/publish.sh && lerna publish",
     "prepare": "husky install",
     "pre-commit": "lint-staged",
     "commit": "yarn git-cz",
