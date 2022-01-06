@@ -1,4 +1,4 @@
 export const SayHello = () => {
-  console.log("Hello");
+  console.log("Hello There");
   return "Hi There from p2 hello";
 };
