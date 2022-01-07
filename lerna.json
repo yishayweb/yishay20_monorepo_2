@@ -8,6 +8,8 @@
       "conventionalCommits": true
     },
     "version": {
+      "allowBranch": "master",
+      "exact": true,
       "message": "chore(release): publish"
     }
   }
