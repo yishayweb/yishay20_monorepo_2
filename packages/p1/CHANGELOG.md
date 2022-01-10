@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.6](https://github.com/yishayweb/yishay20_monorepo_2/compare/@yishay20/p3@1.6.5...@yishay20/p3@1.6.6) (2022-01-10)
+
+**Note:** Version bump only for package @yishay20/p3
+
+
+
+
+
 ## [1.6.5](https://github.com/yishayweb/yishay20_monorepo_2/compare/@yishay20/p3@1.6.4...@yishay20/p3@1.6.5) (2022-01-10)
 
 **Note:** Version bump only for package @yishay20/p3
